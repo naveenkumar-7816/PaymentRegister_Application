@@ -1,1 +1,1 @@
-# [Payment](http://localhost:4200/)
+# [RegisterApp](http://localhost:4200/)
