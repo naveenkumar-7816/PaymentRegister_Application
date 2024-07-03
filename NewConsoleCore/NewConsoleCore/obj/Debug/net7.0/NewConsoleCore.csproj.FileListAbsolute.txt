@@ -1,0 +1,14 @@
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\bin\Debug\net7.0\NewConsoleCore.exe
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\bin\Debug\net7.0\NewConsoleCore.deps.json
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\bin\Debug\net7.0\NewConsoleCore.runtimeconfig.json
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\bin\Debug\net7.0\NewConsoleCore.dll
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\bin\Debug\net7.0\NewConsoleCore.pdb
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\obj\Debug\net7.0\NewConsoleCore.GeneratedMSBuildEditorConfig.editorconfig
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\obj\Debug\net7.0\NewConsoleCore.AssemblyInfoInputs.cache
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\obj\Debug\net7.0\NewConsoleCore.AssemblyInfo.cs
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\obj\Debug\net7.0\NewConsoleCore.csproj.CoreCompileInputs.cache
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\obj\Debug\net7.0\NewConsoleCore.dll
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\obj\Debug\net7.0\refint\NewConsoleCore.dll
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\obj\Debug\net7.0\NewConsoleCore.pdb
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\obj\Debug\net7.0\NewConsoleCore.genruntimeconfig.cache
+G:\.netfullstack_projects\Angular Projects\New_angular\NewConsoleCore\NewConsoleCore\obj\Debug\net7.0\ref\NewConsoleCore.dll
